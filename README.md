@@ -1,1 +1,1 @@
-Курс Stepic  "Python Aiogram Telegram Bots"
+Курс Stepik  "Python Aiogram Telegram Bots"
